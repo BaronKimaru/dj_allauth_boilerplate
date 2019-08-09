@@ -1,0 +1,6 @@
+
+src/dj_allauth/settings/__pycache__/
+src/users/migrations
+src/pages/migrations
+src/pages/__pycache__/
+src/users/__pycache__/
