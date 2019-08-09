@@ -1,5 +1,5 @@
 # dj_allauth_boilerplate
-## A simple Boilerplate Using a Django Custom Model with the exemplary django-Allauth. (If you wish to keep django's authentication that is.)
+#### A simple Boilerplate Using a Django Custom Model with the exemplary django-Allauth. (If you wish to keep django's authentication that is.)
 * **Ps, MAD PROPS go to wsvincent.com for this superb Step by Step Guide.**
 
 # STEPS INVOLVED
