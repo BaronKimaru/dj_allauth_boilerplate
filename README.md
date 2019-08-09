@@ -7,24 +7,26 @@ Install
 1. mkdir my_project
 2. cd my_project
 3. Create a virtualenv. 
- ## pipenv shell
+```
+pipenv shell
+```
 4. Clone the Repository
- ### git clone  https://github.com/BaronKimaru/dj_allauth_boilerplate.git
-5. 
-6. 
-7.  
-
-
- Create a virtualenv. 
- ## mkvirtualenv passwordless_drf
- Clone the Repo.
- ### git clone https://github.com/Ngahu/Passwordless-Django-Rest-Framework.git
- pip install requirements.txt
- ### Run 
- ```
- python manage.py migrate
- ```
- ### Start the Server
- ```
- python manage.py runserver 0:8000
- ```
+```
+git clone  https://github.com/BaronKimaru/dj_allauth_boilerplate.git
+```
+5. Create a virtualenv. 
+```
+mkvirtualenv passwordless_drf
+```
+6. Clone the Repo.
+```
+git clone https://github.com/Ngahu/Passwordless-Django-Rest-Framework.git
+```
+7. Migrate 
+```
+python manage.py migrate
+```
+8. Start the Server
+```
+python manage.py runserver 0:8000
+```
