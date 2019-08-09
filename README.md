@@ -2,6 +2,12 @@
 #### A simple Boilerplate Using a Django Custom Model with the exemplary django-Allauth. (If you wish to keep django's authentication that is.)
 * **Ps, MAD PROPS go to wsvincent.com for this superb Step by Step Guide.**
 
+#### Requirements
+* Python (3.6+)
+* Django (2.2) *at the time*
+* django-allauth
+
+
 ## STEPS INVOLVED
 ### Install
 1. mkdir my_project
