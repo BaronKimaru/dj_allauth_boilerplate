@@ -20,19 +20,11 @@ pipenv shell
 ```
 git clone  https://github.com/BaronKimaru/dj_allauth_boilerplate.git
 ```
-5. Create a virtualenv. 
-```
-mkvirtualenv passwordless_drf
-```
-6. Clone the Repo.
-```
-git clone https://github.com/Ngahu/Passwordless-Django-Rest-Framework.git
-```
-7. Migrate 
+5. Migrate 
 ```
 python manage.py migrate
 ```
-8. Start the Server
+6. Start the Server
 ```
 python manage.py runserver 0:8000
 ```
